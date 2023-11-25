@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.container {
+  margin: 0;
+  width: 100%;
+  padding: 0rem;
+}
+
+ 
+nav {
+  display: flex;
+  padding: 0.5rem;
+  margin-bottom:0.2rem;
+  align-items: center;
+ 
+}
+nav a {
+  padding: 0.5rem;
+  color:rgb(18, 140, 197);
+  text-decoration:none;
+  font-weight: 800;
+  font-size: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.menuitem a:hover, .dropdown:hover .dropbtn {
+  color: rgb(163, 179, 179);
+}
+
+.contactContainer {
+  float: right; /* Float the container to the right */
+  width: 50%; /* Set the width to take up half of the page */
+  box-sizing: border-box; /* Include padding and border in the width calculation */
+  padding: 20px; /* Add padding for spacing */
+}
+
+/*
+.menuitem {
+  position: absolute;
+  left: 2rem;
+  top:  3rem;
+} */
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.navContainer {
+  width: 60%;
+  margin: 0 auto; /* Center the element horizontally */
+}

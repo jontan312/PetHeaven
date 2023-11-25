@@ -1,0 +1,40 @@
+/* Add padding to the individual links for better spacing */
+.nav-link {
+    padding: 0 15px;
+    text-decoration: none;
+    color:rgb(18, 140, 197);
+    font-weight: bold;
+  }
+  
+  /* Increase space between the links */
+  .menuitem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Style the logo */
+  .logo {
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin: auto;
+  }
+  
+  /* Add some hover effect for better interactivity */
+  .nav-link:hover {
+    background-color: #ffffff; /* Adjust the background color on hover */
+    border-radius: 5px;
+  }
+  
+  /* Media query for responsiveness (adjust as needed) */
+  @media (max-width: 760px) {
+    .menuitem {
+      flex-direction: column; /* Stack links vertically on smaller screens */
+      text-align: center; /* Center text on smaller screens */
+    }
+  
+    .nav-link {
+      padding: 10px; /* Add padding to links for better touch targets on smaller screens */
+    }
+  }
