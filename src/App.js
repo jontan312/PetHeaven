@@ -21,7 +21,7 @@ function App() {
 
         <div className="mainContainer">
           <Routes>
-            <Route path="/PetShelter" element={<Home />}/>
+            <Route path="/PetHeaven" element={<Home />}/>
             <Route path="/about" element={<About />} />
             <Route path="/funcat" element={<Cats />} />
             <Route path="/fundog" element={<Dogs />} />
