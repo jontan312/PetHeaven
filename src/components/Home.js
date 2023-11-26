@@ -10,7 +10,7 @@ const Home = () => {
         <h2 class="bannerText">Adopt a life-long friend today</h2>
       </div>
       <div class="centredText">
-        <h2>Why Adopt from Pet Shelter?</h2>
+        <h2>Why Adopt from Pet Heaven?</h2>
       </div>
 
       <div>
