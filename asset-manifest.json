@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/PetShelter/static/css/main.5eb3ec5a.css",
-    "main.js": "/PetShelter/static/js/main.f687701f.js",
-    "static/js/787.bc7d429a.chunk.js": "/PetShelter/static/js/787.bc7d429a.chunk.js",
-    "static/media/glyphicons-halflings-regular.svg": "/PetShelter/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
-    "static/media/glyphicons-halflings-regular.ttf": "/PetShelter/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
-    "static/media/glyphicons-halflings-regular.woff": "/PetShelter/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
-    "static/media/glyphicons-halflings-regular.eot": "/PetShelter/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
-    "static/media/glyphicons-halflings-regular.woff2": "/PetShelter/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
-    "static/media/PsLogo.jpg": "/PetShelter/static/media/PsLogo.cc01000c5fdbc51fb767.jpg",
-    "index.html": "/PetShelter/index.html",
-    "main.5eb3ec5a.css.map": "/PetShelter/static/css/main.5eb3ec5a.css.map",
-    "main.f687701f.js.map": "/PetShelter/static/js/main.f687701f.js.map",
-    "787.bc7d429a.chunk.js.map": "/PetShelter/static/js/787.bc7d429a.chunk.js.map"
+    "main.css": "/PetHeaven/static/css/main.6b4c5ae7.css",
+    "main.js": "/PetHeaven/static/js/main.d889fe8d.js",
+    "static/js/787.bc7d429a.chunk.js": "/PetHeaven/static/js/787.bc7d429a.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/PetHeaven/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/PetHeaven/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/PetHeaven/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/PetHeaven/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/PetHeaven/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/PsLogo.jpg": "/PetHeaven/static/media/PsLogo.cc01000c5fdbc51fb767.jpg",
+    "index.html": "/PetHeaven/index.html",
+    "main.6b4c5ae7.css.map": "/PetHeaven/static/css/main.6b4c5ae7.css.map",
+    "main.d889fe8d.js.map": "/PetHeaven/static/js/main.d889fe8d.js.map",
+    "787.bc7d429a.chunk.js.map": "/PetHeaven/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eb3ec5a.css",
-    "static/js/main.f687701f.js"
+    "static/css/main.6b4c5ae7.css",
+    "static/js/main.d889fe8d.js"
   ]
 }
