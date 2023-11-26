@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "/Users/jonathantan/Documents/Coding/frontEnd/isit207/my-react-app/src/components/PsLogo.jpg";
+import logo from "/Users/jonathantan/Documents/Coding/frontEnd/isit207/my-react-app/src/components/PHlogo.png";
 import { Link } from "react-router-dom";
 import "./NavBar.css";
 
@@ -8,7 +8,7 @@ const NavBar = () => {
     <>
       <nav style={navStyles}>
         <div className="menuitem">
-          <Link to="/">
+          <Link to="/PetHeaven">
             <img alt="companyLogo" src={logo} className="logo" />
           </Link>
           <Link to="/about" className="nav-link">About</Link>
